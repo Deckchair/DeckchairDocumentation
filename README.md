@@ -8,4 +8,4 @@ We continually improve and maintain the documentation in line with our products.
 
 *	[Deckchair Camera Installation Guide](https://github.com/Deckchair/DeckchairDocumentation/blob/master/OperatorInstallationGuide.md)
 
-*	[Deckchair API / Platform Documentation](https://github.com/Deckchair/DeckchairDocumentation/blob/master/OperatorInstallationGuide.md)
+*	[Deckchair API / Platform Documentation](https://github.com/Deckchair/DeckchairDocumentation/blob/master/PlatformAPIDocumentation.md)
