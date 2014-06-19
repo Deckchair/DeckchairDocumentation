@@ -103,9 +103,14 @@ This page will immediately request an image from both cameras, it can take upto 
 
 The quality of image from the video camera is less important than the primary image camera.
 
-You may decide you want to 'zoom' in a bit to crop the view slightly - to do this, remove the lid of the Camera unit - carefully and slowly. You will need to tilt it to avoid the camera lens and components when lifting.
+You may decide you want to 'zoom' in a bit to crop the view slightly - to do this;
 
-Turn the zoom ring and re-check the snapshot as desired.
+* Unclip the hinges on the case
+* Take off the lid *carefully and slowly* navigating around the lens/components. You will need to tilt it to avoid the camera lens and components when lifting.
+* Turn the main zoom on the camera - it's set by default to 18mm
+* Take snapshots in the web interface until your happy with the position
+* Slowly put the lid back on the case, navigating around the lens/components and ensuring no wires get in the way of the seal
+
 
 **Step 9:**
 
